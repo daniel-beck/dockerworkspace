@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo whatever
+ln -s foo /
