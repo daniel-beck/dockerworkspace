@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ln -s foo /
+ln -s / foo
